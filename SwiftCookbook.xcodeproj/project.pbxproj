@@ -6,10 +6,23 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		672D3BE0273B68B400CBA7CA /* FunctionalSwift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FunctionalSwift.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		672D3BE1273B68E400CBA7CA /* AdvancedSwift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AdvancedSwift.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		672D3BE2273B692700CBA7CA /* TipersSwift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TipersSwift.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		672D3BE3273B69EE00CBA7CA /* CommonSwift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CommonSwift.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		672D3BE4273B6A0000CBA7CA /* DraftSwift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DraftSwift.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		672D3BD9273B686C00CBA7CA = {
 			isa = PBXGroup;
 			children = (
+				672D3BE3273B69EE00CBA7CA /* CommonSwift.playground */,
+				672D3BE0273B68B400CBA7CA /* FunctionalSwift.playground */,
+				672D3BE1273B68E400CBA7CA /* AdvancedSwift.playground */,
+				672D3BE2273B692700CBA7CA /* TipersSwift.playground */,
+				672D3BE4273B6A0000CBA7CA /* DraftSwift.playground */,
 			);
 			sourceTree = "<group>";
 		};
